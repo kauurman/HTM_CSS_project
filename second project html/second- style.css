@@ -33,7 +33,7 @@ form-control textarea{
 }
 
 form-control input[type="radio"]
-form-control input[type="cjeckbox"]{
+form-control input[type="checkbox"]{
     display: inline-block;
     width: auto;
 }
