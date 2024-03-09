@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <link rel="stylesheet" href="third_style.css"
+</head>
+<body>
+<section>
+    <div class="leftbox">
+    <div class="content">
+    <h1>
+        EVENTS AND SHOWS
+    </h1>   
+    <p>
+    do you write an event paragraph?
+Explain where and when the event happened • 
+If possible, include the number of people that attended the event • 
+Explain why the event was organised and what you hoped to achieve on the day>
+</p>
+    </div>
+</div>
+        <div class="events">
+            <ul>
+                <li>
+                <div class="time">
+                    <h2>
+                        15<br><span>MARCH</span>
+                    </h2>
+                </div>
+                <div class="details">
+                    <h3>
+                        WHERE is the events happening?
+                    </h3>
+                    <p>
+                        An essay describing certain events that happened to you or other people is called an event essay. 
+                        It doesn’t matter if the situation you’re writing about happened to you or not since your overall task does not change. 
+                        This task can be a challenging one.
+                        You need to include the illustrative details of the event to make the readers feel like they’re experiencing the event firsthand.
+                        It needs to be more than a mere description of an event and contain elements of the narrative style. 
+                    </p>
+                    <a href="#">view details</a>
+                        <div>
+                            <div style="clear: both;"></div>
+                    </div>
+                </div>
+                </li>
+            </ul>
+
+        </div>
+        </section>
+        
+    </body>
+</html>
