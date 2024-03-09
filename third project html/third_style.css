@@ -24,5 +24,13 @@ section:leftbox{
 section.leftbox.content{
     background: rgb(0,0, 0.5);
     padding: 40px;
-    transition:
+    transition:5s;
 }
+
+
+.section.events ul li.details a:hover{
+    background: #e91e63;
+    color: #fff;
+    border-color: #e91e63;
+}
+
