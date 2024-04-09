@@ -1,21 +1,7 @@
-//let heroes = ["thor","spideman", "ironman", " shaktiman", "hulk"];
-// for loop 
-//for (let idx= 0; idx <heroes.length; idx++){
-  //  console.log (heroes[idx]);
-//}
+let items = [250, 645, 300, 900, 50];
 
-
-// for of 
-
-//for (let hero of heroes){
-  //  console.log (hero);
-//}
-
-
-
-let  cities = ["delhi","punjab","hyderabad","pune","mumbai","goa",""];
-for (let city of cities ){
-    console.log (city. toUpperCase());
+for (let i =0 ; i < items. lenght ; i ++ ){
+  let offer = items [i] / 10 ;
+  items [i] -= offer;
 }
-
-
+console.log (items);
