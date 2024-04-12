@@ -1,7 +1,6 @@
-let items = [250, 645, 300, 900, 50];
+let marvelHeroes = ["thor","spidemam","iromam"];
+let dcHeroes = ["supermam","batman"];
+let indianHeroes = ["shaktiman","krish"]
 
-for (let i =0 ; i < items. lenght ; i ++ ){
-  let offer = items [i] / 10 ;
-  items [i] -= offer;
-}
-console.log (items);
+let heroes = marvelHeroes .concat(dcHeroes,indianHeroes );
+console.log (heroes);
