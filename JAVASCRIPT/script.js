@@ -1,11 +1,9 @@
-let arr = [1,2,3,4,5,6,7];
-//arr.splice (2,2,101,102);
+// function ---> 2 numbers, sum 
+function sum (x,y){
+    s = x + y;
+    console.log ("before return");
+    return s;
+}
 
-//Add element 
-//arr.splice (2,0,101);
-
-//delete element 
-//arr.splice (3,1);
-
-//replace element 
-arr.splice(3,1,101);
+let val =  sum (3,4);
+console.log (val);
