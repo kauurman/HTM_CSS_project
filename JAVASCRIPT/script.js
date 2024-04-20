@@ -1,9 +1,21 @@
-// function ---> 2 numbers, sum 
-function sum (x,y){
-    s = x + y;
-    console.log ("before return");
-    return s;
-}
+// sum finction 
+//function sum (a,b){
+  //  return  a + b ;
+//}
 
-let val =  sum (3,4);
-console.log (val);
+
+//const arrowSum  = (a,b)-->{
+  //  console.log (a + b);
+//};
+
+
+// multiplication function 
+
+//function mul (a , b ){
+  //  return a * b; 
+
+//}
+
+
+
+const printHello = () => console.log ("Hello");
