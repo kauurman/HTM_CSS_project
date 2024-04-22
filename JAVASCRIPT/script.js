@@ -1,21 +1,13 @@
-// sum finction 
-//function sum (a,b){
-  //  return  a + b ;
-//}
+function countVowels (str){
+    let count = 0;
+    for ( const char of str ){
+        if (char === "a" || char === "i " || char === "o" || char === "e" || char === "u"){
+        count++;
 
+        
+        } 
+}
 
-//const arrowSum  = (a,b)-->{
-  //  console.log (a + b);
-//};
-
-
-// multiplication function 
-
-//function mul (a , b ){
-  //  return a * b; 
-
-//}
-
-
-
-const printHello = () => console.log ("Hello");
+    console.log (count);
+}
+    
